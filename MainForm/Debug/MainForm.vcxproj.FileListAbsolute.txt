@@ -1,0 +1,3 @@
+D:\DEVELOPMENT\Cpp\WinUI\MainForm\Debug\MainForm.vcxprojAssemblyReference.cache
+D:\DEVELOPMENT\Cpp\WinUI\MainForm\Debug\MainForm.frmMain.resources
+D:\DEVELOPMENT\Cpp\WinUI\MainForm\Debug\MainForm.vcxproj.GenerateResource.cache

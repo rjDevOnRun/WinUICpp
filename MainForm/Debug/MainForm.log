@@ -1,0 +1,4 @@
+﻿  frmMain.cpp
+D:\DEVELOPMENT\Cpp\WinUI\MainForm\frmMain.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  frmMain.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  MainForm.vcxproj -> D:\DEVELOPMENT\Cpp\WinUI\Debug\MainForm.exe
